@@ -1,2 +1,0 @@
-# Thrive
-Thrive Brands website
